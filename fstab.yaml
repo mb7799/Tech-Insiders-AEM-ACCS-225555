@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: "https://author-p225555-e2307270.adobeaemcloud.com/bin/franklin.delivery/mb7799/Tech-Insiders-AEM-ACCS-225555/main"
+    type: "markup"
+    suffix: ".html"
+folders:
+  /products/: /products/default
